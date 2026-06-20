@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1 Score
+Decision Tree,0.9067,0.9064,0.9067,0.9058
+Random Forest,0.9467,0.9456,0.9467,0.9457
+XGBoost,0.9533,0.9536,0.9533,0.952
