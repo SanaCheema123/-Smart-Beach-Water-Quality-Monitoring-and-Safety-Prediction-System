@@ -1,4 +1,5 @@
 # 🌊 Smart Beach Water Quality Monitoring and Safety Prediction System
+[screen-capture.webm](https://github.com/user-attachments/assets/b0f0a1a0-5852-479a-8aa3-8d04bcb636e5)
 
 ## Overview
 
